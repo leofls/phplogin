@@ -1,6 +1,6 @@
 #Instructions 
 
-# O arquivo conexão.php
+# O arquivo ```conexão.php```
 é onde vc alterar as configurações do banco Mysql
 
 # O arquivo ```login.sql``` 
